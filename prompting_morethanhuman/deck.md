@@ -504,23 +504,8 @@ Deliverable: V4 & V5 ... outputs + Iteration Log
 
 ### Ethics & Technodiversity (WIP)
 
-- Language frames the world: watch for bias, exclusion, monocultures  
-- Cite AI assistance and note version/date  
+- Cite AI assistance and note version/date through the PBT  
 - Verify factual claims; avoid false authority  
-- Explore non-Western framings and multilingual robustness
-
----
-
-### The Prompt Archive (Cohort Library)
-
-Contribute:
-- Final prompt (with 5-part snapshot)  
-- 1–2 best outputs (text/image)  
-- One-line “Why this works”
-
-Benefits:
-- Peer learning & benchmarking  
-- Shared vocabulary for future cohorts
 
 
 ---
