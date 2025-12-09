@@ -529,11 +529,10 @@ Benefits:
 ## Resources
 
 - Handout: Prompt Builder Tool (with Reflection Questions)
-- Class Prompt Archive (Excel Sheet link)  
-- Optional reading list (prompting & critical AI literacies)
+- TBA Reading List (Prompting & Critical AI Literacies)
 
 ---
 
 
 
-**Next:** apply this method in the upcoming **Relational Interfaces** project and attach the prompt appendix to the working portfolio.
+**Next:** apply this method in the upcoming **Relational Interfaces** project and attach the [Prompt Builder Tool form](./PromptBuilderTool.docx) to the working portfolio.
