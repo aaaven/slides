@@ -1,4 +1,4 @@
-## How do we go beyod antropocentric veiws?
+## How do we go beyod anthropocentric veiws?
 
 ##### By *Dr. [Aven Le ZHOU](https://www.aven.cc)*, 2025
 
@@ -7,7 +7,7 @@
 
 ### Workshop Goal
 
-Go beyond antropocentric thinking and implement nonhuman perspectives through **structured, reflective and meta prompting**<!-- .element: class="fragment grow highlight-current-red" --> (instead of **trial-and-error**<!-- .element: class="fragment grow highlight-current-red" -->)
+Go beyond anthropocentric thinking and implement nonhuman perspectives through **structured, reflective and meta prompting**<!-- .element: class="fragment grow highlight-current-red" --> (instead of **trial-and-error**<!-- .element: class="fragment grow highlight-current-red" -->)
 
 
 ---
