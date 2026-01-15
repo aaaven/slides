@@ -1,4 +1,4 @@
-## How do we go beyod anthropocentric veiws?
+## Design beyod anthropocentric veiws?
 
 ##### By *Dr. [Aven Le ZHOU](https://www.aven.cc)*, 2025
 
