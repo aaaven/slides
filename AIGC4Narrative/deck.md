@@ -4,10 +4,39 @@
 
 
 
+---
+
+[- Towards an AI-Assisted Speculative Narrative Design Workflow.](https://scholar.xjtlu.edu.cn/en/publications/towards-an-ai-assisted-speculative-narrative-design-workflow/)
+
+[- From Concept to Video: an End-to-End AI-Assisted Approach for Storytelling](https://scholar.xjtlu.edu.cn/en/publications/from-concept-to-video-an-end-to-end-ai-assisted-approach-for-stor/)
 
 ---
 
-##### How to Apply AIGC to Communicating Your Design Ideas?
+[- Speculative Futures Digitial Art Competition](https://dac.siggraph.org/competition-artwork/2025-sf-project-serum-dominance-on-trial/)
+
+[- Students’ design project gains international recognition and research publication](https://www.xjtlu.edu.cn/en/news/2025/11/industrialdesigninternationalrecognition)
+
+---
+
+<iframe width="1600" height="720" src="https://www.youtube.com/embed/HwoSj77GPfM?si=sxMQI20DkL4lEmaY&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="1600" height="720" src="https://www.youtube.com/embed/ZK27d9Ig1m4?si=KRROAEaVCeluJWXG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="1600" height="720" src="https://www.youtube.com/embed/e1Txt8X2Ags?si=A_Fc5vmGzsuZSLmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="1600" height="720" src="https://www.youtube.com/embed/JWNdLGnl7z8?si=75XRsgnLwOMJHBF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+
+##### How to Apply AIGC to Communicating Your [Design] Ideas?
 
 
 ---
