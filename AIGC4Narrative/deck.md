@@ -1,62 +1,110 @@
+#### From Blueprint to Remediation:
+#### AIGC x Narrative x Design 
+##### By [*Dr. Aven Le ZHOU*](https://www.aven.cc), 2026
 
 
-# From Blueprint to Remediation
-## Applying AIGC to Narrative Design
-### and Communicate Your Ideas
+
 
 ---
 
-## Section 1
-# Narrative matters in design
+##### How to Apply AIGC to Communicating Your Design Ideas?
+
 
 ---
 
-## 1.1 Design is not only function
-# Design also communicates
+## 1 Narrative Matters
 
-<div style="font-size:0.9em; line-height:1.6; margin-top:20px;">
-<span class="fragment">situations</span><br>
-<span class="fragment">values</span><br>
-<span class="fragment">futures</span><br>
-<span class="fragment">relations</span>
+---
+
+
+### 1.1 For design students
+
+----
+
+## Concepts Need Narrative
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">concept scenarios</li>
+  <li class="fragment">future use cases / user journey</li>
+  <li class="fragment">interaction design / storyboard</li>
+  <li class="fragment">presentation / portfolio communication</li>
+</ul>
+
+---
+
+### 1.2 Design is not only function
+
+----
+
+## Design is also communication
+
+----
+
+#### You design how to communicate design: 
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">values</li>
+  <li class="fragment">scenerios</li>
+  <li class="fragment">impact</li>
+</ul>
+
+
+<br><br>
+
+#### *The deisgn needs narrative!*<!-- .element: class="fragment" --> 
+
+---
+
+### 1.3 What narrative actually does
+
+----
+
+## Narrative organizes meaning
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">something begins somewhere</li>
+  <li class="fragment">something happens</li>
+  <li class="fragment">something changes</li>
+  <li class="fragment">that change brings some meaning</li>
+</ul>
+
+#### *Chatman, 1978*<!-- .element: class="fragment" --> 
+
+---
+
+### 1.4 The essence of narrative
+
+----
+
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.05em;">
+<span class="fragment">state a situation</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">describe an transformation</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">claim a changed situation</span>
 </div>
 
----
+<br><br>
 
-## 1.2 Narrative as a design logic
-# Narrative organizes meaning
-
-<div style="font-size:1.1em; line-height:1.8; margin-top:30px;">
-<span class="fragment">through time</span>
-<span class="fragment"> → </span>
-<span class="fragment">through sequence</span>
-<span class="fragment"> → </span>
-<span class="fragment">through consequence</span>
-</div>
+#### *Abbott, 2008; Chatman, 1978*<!-- .element: class="fragment" --> 
 
 ---
 
-## 1.3 Why this matters for design students
-# Concepts become legible through narrative
 
-<div style="font-size:0.9em; line-height:1.6; margin-top:20px;">
-<span class="fragment">concept scenario</span><br>
-<span class="fragment">future use</span><br>
-<span class="fragment">design fiction</span><br>
-<span class="fragment">portfolio communication</span>
-</div>
+## 2 What is Narrative Design?
 
 ---
 
-## Section 2
-# What is narrative design?
+## More than a story in textural / verbal formats
 
----
+----
 
-## 2.1 What counts as narrative
-# Not just a story text
+### 2.1 What counts as narrative
 
-<div style="font-size:1.05em; line-height:1.9; margin-top:28px;">
+----
+
+
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.05em;">
 <span class="fragment">world</span>
 <span class="fragment"> + </span>
 <span class="fragment">actors</span>
@@ -66,335 +114,430 @@
 <span class="fragment">unfolding</span>
 </div>
 
+<br><br>
+
+#### *Chatman, 1978*<!-- .element: class="fragment" --> 
+
 ---
 
-## 2.2 Core components of narrative
-# A narrative has structure
+### 2.2 Core components
 
-<div style="font-size:0.92em; line-height:1.6; margin-top:18px;">
-<span class="fragment">world</span><br>
-<span class="fragment">agents</span><br>
-<span class="fragment">conflict</span><br>
-<span class="fragment">sequence</span><br>
-<span class="fragment">perspective</span><br>
-<span class="fragment">transformation</span>
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">world</li>
+  <li class="fragment">charactors</li>
+  <li class="fragment">conflict</li>
+  <li class="fragment">sequence</li>
+  <li class="fragment">perspective</li>
+  <li class="fragment">transformation</li>
+</ul>
+
+---
+
+### 2.3 Narrative design
+
+----
+
+## What is told
+## How it is told
+
+---
+
+### Blueprint vs Remediation
+
+<div style="margin-top:34px; text-align:center; line-height:1.8;">
+<span class="fragment">content</span>
+<span class="fragment"> → </span>
+<span class="fragment">expression</span>
+</div>
+
+<br><br>
+
+#### *Chatman, 1978; Ma et al., 2025*<!-- .element: class="fragment" --> 
+
+---
+
+### 2.4 In design practice
+
+---
+
+## Visible vs Underlying
+
+<div style="display:flex; gap:40px; margin-top:38px; line-height:1.8;">
+  <div style="flex:1;">
+    <h4>Visible</h4>
+    <ul>
+      <li class="fragment">scenario / storyboard</li>
+      <li class="fragment">concept video</li>
+      <li class="fragment">presentation / portfolio page</li>
+    </ul>
+  </div>
+  <div style="flex:1;">
+    <h4>Underlying</h4>
+    <ul>
+      <li class="fragment">world logic / temporal sequence</li>
+      <li class="fragment">transformation</li>
+      <li class="fragment">designed message</li>
+    </ul>
+  </div>
 </div>
 
 ---
 
-## 2.3 What is narrative design
-# Shape what is told
-### and how it is told
+## 3 Blueprint First
 
 ---
 
-## 2.4 Narrative design in practice
-# Narrative appears across design work
+### 3.1 Why blueprint comes first
 
-<div style="display:flex; gap:40px; align-items:flex-start; margin-top:20px; font-size:0.84em; line-height:1.55;">
-<div style="flex:1; text-align:left;">
-<strong>visible</strong><br>
-<span class="fragment">scenario board</span><br>
-<span class="fragment">concept video</span><br>
-<span class="fragment">poster</span><br>
-<span class="fragment">portfolio page</span>
-</div>
-<div style="flex:1; text-align:left;">
-<strong>underneath</strong><br>
-<span class="fragment">world logic</span><br>
-<span class="fragment">actor relation</span><br>
-<span class="fragment">temporal sequence</span><br>
-<span class="fragment">designed message</span>
-</div>
-</div>
+----
+
+#### Strong outputs need structure
+
+#### Image quality is not narrative quality
 
 ---
 
-## Section 3
-# Blueprint: design the narrative core
+### 3.2 What a blueprint contains
+
+----
+
+## The narrative core
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">theme</li>
+  <li class="fragment">world logic</li>
+  <li class="fragment">actor constellation</li>
+  <li class="fragment">tension</li>
+  <li class="fragment">arc + scenes + tone</li>
+</ul>
+
+#### *Ma et al., 2025*<!-- .element: class="fragment" --> 
 
 ---
 
-## 3.1 Why blueprint comes first
-# Strong outputs need strong structure
+### 3.3 Blueprint logic
 
----
+----
 
-## 3.2 What a blueprint contains
-# Before images, define the core
+## Narrative core outputs
 
-<div style="font-size:0.86em; line-height:1.55; margin-top:18px;">
-<span class="fragment">theme</span><br>
-<span class="fragment">premise</span><br>
-<span class="fragment">world logic</span><br>
-<span class="fragment">actor constellation</span><br>
-<span class="fragment">tension</span><br>
-<span class="fragment">arc</span><br>
-<span class="fragment">scenes</span><br>
-<span class="fragment">tone</span>
-</div>
-
----
-
-## 3.3 Blueprint logic
-# Narrative core ↓ narrative outputs
-
-<div style="font-size:1em; line-height:1.8; margin-top:24px;">
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.02em;">
 <span class="fragment">theme / question</span><br>
 <span class="fragment">↓</span><br>
-<span class="fragment">premise</span><br>
+<span class="fragment">premises</span><br>
 <span class="fragment">↓</span><br>
 <span class="fragment">world + actors + tension</span><br>
 <span class="fragment">↓</span><br>
 <span class="fragment">scenes + tone</span>
 </div>
 
+#### *Ma et al., 2025*<!-- .element: class="fragment" --> 
+
 ---
 
-## 3.4 How AIGC helps at blueprint stage
-# AIGC expands possibilities
+### 3.4 AI at blueprint stage
 
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">brainstorm premises</span><br>
-<span class="fragment">test scenarios</span><br>
-<span class="fragment">vary world details</span><br>
-<span class="fragment">draft scenes</span><br>
-<span class="fragment">explore tone</span>
+----
+
+## AI expands possibilities
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">brainstorm premises</li>
+  <li class="fragment">test scenarios</li>
+  <li class="fragment">vary world details</li>
+  <li class="fragment">draft scenes</li>
+  <li class="fragment">explore tone</li>
+</ul>
+
+#### *McCormack et al., 2019; Ma et al., 2025*<!-- .element: class="fragment" --> 
+
+---
+
+### 3.5 But not by AI itself
+
+----
+
+### **Human proses, AI proposes**<!-- .element: class="fragment" --> 
+### **AI proposes, Human aligns**<!-- .element: class="fragment" -->
+
+
+<br><br>
+
+#### *Roemmele & Gordon, 2018; Ma et al., 2025*<!-- .element: class="fragment" --> 
+
+---
+
+
+## 4 Remediation across media
+
+---
+
+### 4.1 What remediation means
+
+----
+
+## One core, many forms
+
+----
+
+#### Transposition / adaptation / transformation
+
+
+<br><br>
+#### Bolter & Grusin, 1999; Ryan, 2005; Ma et al., 2025
+
+---
+
+### 4.2 From blueprint to form
+
+----
+
+### Narrative moves across media
+
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.02em;">
+<span class="fragment">premise</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">script</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">storyboard</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">image</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">video / poster / deck</span>
+</div>
+
+#### *Zhu et al., 2025; Ma et al., 2025*<!-- .element: class="fragment" -->
+
+---
+
+## Form vs logic
+
+----
+
+## Good communication needs both
+
+
+<div style="display:flex; gap:40px; margin-top:38px; line-height:1.8;">
+  <div style="flex:1;">
+    <h4>Visible form</h4>
+    <ul>
+      <li class="fragment">image style</li>
+      <li class="fragment">shot composition</li>
+      <li class="fragment">layout</li>
+      <li class="fragment">motion</li>
+    </ul>
+  </div>
+  <div style="flex:1;">
+    <h4>Hidden logic</h4>
+    <ul>
+      <li class="fragment">scene intention</li>
+      <li class="fragment">narrative rhythm</li>
+      <li class="fragment">world coherence</li>
+      <li class="fragment">message</li>
+    </ul>
+  </div>
 </div>
 
 ---
 
-## 3.5 But AI does not decide the project
-# AI proposes
-### human aligns
+### 4.3 AI at remediation stage
+
+----
+
+## AI supports translation
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">scene visualization</li>
+  <li class="fragment">style variation</li>
+  <li class="fragment">storyboarding</li>
+  <li class="fragment">motion generation</li>
+  <li class="fragment">layout drafting</li>
+</ul>
+
+#### *Zhu et al., 2025*<!-- .element: class="fragment" -->
 
 ---
 
-## Section 4
-# Remediation: translate across media
+
+## 5 Human–AI loop
 
 ---
 
-## 4.1 What remediation means
-# One narrative core
-### many communicable forms
+### 5.1 AI is the co-author
+
+----
+
+#### AI is always one layer / part
+
+#### Within a larger design process
 
 ---
 
-## 4.2 From blueprint to representation
-# Narrative moves across media
+### 5.2 The loop
 
-<div style="font-size:0.96em; line-height:1.9; margin-top:28px;">
-<span class="fragment">premise</span>
-<span class="fragment"> → </span>
-<span class="fragment">script</span>
-<span class="fragment"> → </span>
-<span class="fragment">storyboard</span>
-<span class="fragment"> → </span>
-<span class="fragment">image</span>
-<span class="fragment"> → </span>
-<span class="fragment">video</span>
-<span class="fragment"> → </span>
-<span class="fragment">presentation</span>
+----
+
+### Intention → generation → evaluation
+
+----
+
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.02em;">
+<span class="fragment">human intention</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">AI generation</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">human evaluation</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">reframing + variation</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">curation</span>
 </div>
 
----
-
-## 4.3 Why remediation matters
-# Ideas become legible in form
+#### *Ma et al., 2025; Zhu et al., 2025*<!-- .element: class="fragment" -->
 
 ---
 
-## 4.4 Visible form vs hidden logic
-# Good communication holds both together
+### 5.3 What is happening
 
-<div style="display:flex; gap:40px; align-items:flex-start; margin-top:20px; font-size:0.84em; line-height:1.55;">
-<div style="flex:1; text-align:left;">
-<strong>visible</strong><br>
-<span class="fragment">image style</span><br>
-<span class="fragment">shot composition</span><br>
-<span class="fragment">layout</span><br>
-<span class="fragment">motion</span>
-</div>
-<div style="flex:1; text-align:left;">
-<strong>hidden</strong><br>
-<span class="fragment">scene intention</span><br>
-<span class="fragment">narrative rhythm</span><br>
-<span class="fragment">world coherence</span><br>
-<span class="fragment">message</span>
-</div>
-</div>
+----
+#### AI expands the design space
+#### Human navigate the space with AI
 
 ---
 
-## 4.5 How AIGC helps at remediation stage
-# AIGC supports translation
+### 5.3 Some critical prompts in the paper
 
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">scene visualization</span><br>
-<span class="fragment">style variation</span><br>
-<span class="fragment">storyboarding</span><br>
-<span class="fragment">motion generation</span><br>
-<span class="fragment">layout drafting</span>
-</div>
+----
 
----
+#### e.g.,
 
-## Section 5
-# The human–AI co-creation loop
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">prompt structure</li>
+  <li class="fragment">selection criteria</li>
+  <li class="fragment">manual revision</li>
+  <li class="fragment">editorial judgment</li>
+</ul>
 
----
-
-## 5.1 AI is not the author
-# AI is part of a loop
+#### *Zhu et al., 2025*<!-- .element: class="fragment" -->
 
 ---
 
-## 5.2 The loop itself
-# Human intention → AI generation
-### → human evaluation → reframing
-### → AI variation → curation
+##  6 Method you can apply
 
 ---
 
-## 5.3 What the human contributes
-# Direction and criteria
+### Step 1: Define the seed
 
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">framing</span><br>
-<span class="fragment">critique</span><br>
-<span class="fragment">selection</span><br>
-<span class="fragment">alignment</span>
-</div>
-
----
-
-## 5.4 What the AI contributes
-# Speed and variation
-
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">many options</span><br>
-<span class="fragment">unexpected combinations</span><br>
-<span class="fragment">cross-media generation</span><br>
-<span class="fragment">rapid iteration</span>
-</div>
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">theme</li>
+  <li class="fragment">question</li>
+  <li class="fragment">tension</li>
+  <li class="fragment">future condition</li>
+</ul>
 
 ---
 
-## 5.5 Core principle
-# AI expands the space
-### human gives it direction
+### Step 2: Build the blueprint
+
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">world</li>
+  <li class="fragment">actors</li>
+  <li class="fragment">conflict</li>
+  <li class="fragment">sequence</li>
+  <li class="fragment">tone</li>
+</ul>
 
 ---
 
-## Section 6
-# From concept to communicable output
+### Step 3: Iterate with AI
 
----
-
-## 6.1 Step 1
-# Define the narrative seed
-
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">theme</span><br>
-<span class="fragment">question</span><br>
-<span class="fragment">tension</span><br>
-<span class="fragment">future condition</span>
-</div>
-
----
-
-## 6.2 Step 2
-# Build the blueprint
-
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">world</span><br>
-<span class="fragment">actors</span><br>
-<span class="fragment">conflict</span><br>
-<span class="fragment">sequence</span><br>
-<span class="fragment">tone</span>
-</div>
-
----
-
-## 6.3 Step 3
-# Iterate with AI
-
-<div style="font-size:0.95em; line-height:1.8; margin-top:24px;">
-<span class="fragment">generate</span>
-<span class="fragment"> → </span>
-<span class="fragment">compare</span>
-<span class="fragment"> → </span>
-<span class="fragment">select</span>
-<span class="fragment"> → </span>
+<div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.02em;">
+<span class="fragment">generate</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">compare</span><br>
+<span class="fragment">↓</span><br>
+<span class="fragment">select</span><br>
+<span class="fragment">↓</span><br>
 <span class="fragment">redirect</span>
 </div>
 
 ---
 
-## 6.4 Step 4
-# Remediate into formats
+### Step 4: Remediate into formats
 
-<div style="font-size:0.9em; line-height:1.55; margin-top:18px;">
-<span class="fragment">storyboard</span><br>
-<span class="fragment">poster</span><br>
-<span class="fragment">comic strip</span><br>
-<span class="fragment">concept video</span><br>
-<span class="fragment">portfolio page</span>
+<ul style="margin-top:38px; line-height:1.8;">
+  <li class="fragment">storyboard</li>
+  <li class="fragment">poster</li>
+  <li class="fragment">comic strip</li>
+  <li class="fragment">concept video</li>
+  <li class="fragment">portfolio page</li>
+</ul>
+
+---
+
+### Step 5: Align the communication
+
+<div style="display:flex; gap:40px; margin-top:38px; line-height:1.8;">
+  <div style="flex:1;">
+    <h4>Keep consistent</h4>
+    <ul>
+      <li class="fragment">tone</li>
+      <li class="fragment">world logic</li>
+      <li class="fragment">visual language</li>
+    </ul>
+  </div>
+  <div style="flex:1;" class="fragment">
+    <h4>So the audience gets</h4>
+    <ul>
+      <li class="fragment">clarity</li>
+      <li class="fragment">coherence</li>
+      <li class="fragment">intended message</li>
+    </ul>
+  </div>
 </div>
 
 ---
 
-## 6.5 Step 5
-# Align the communication
+### Summary: Use AIGC as tool
 
-<div style="display:flex; gap:40px; align-items:flex-start; margin-top:20px; font-size:0.84em; line-height:1.55;">
-<div style="flex:1; text-align:left;">
-<strong>keep consistent</strong><br>
-<span class="fragment">tone</span><br>
-<span class="fragment">world logic</span><br>
-<span class="fragment">visual language</span>
-</div>
-<div style="flex:1; text-align:left;">
-<strong>so the audience gets</strong><br>
-<span class="fragment">clarity</span><br>
-<span class="fragment">coherence</span><br>
-<span class="fragment">intended message</span>
-</div>
-</div>
-
----
-
-## 6.6 Applying this to your own workflow
-# Do not start from tools
-### start from narrative intention
-
----
-
-## Connection to assignment tasks
-# Use AIGC as method
-
-<div style="display:flex; gap:40px; align-items:flex-start; margin-top:20px; font-size:0.84em; line-height:1.55;">
-<div style="flex:1; text-align:left;">
-<strong>task 1</strong><br>
-<span class="fragment">build a narrative blueprint</span><br>
-<span class="fragment">define world, actors, tension</span>
-</div>
-<div style="flex:1; text-align:left;">
-<strong>task 2</strong><br>
-<span class="fragment">remediate into visuals</span><br>
-<span class="fragment">communicate clearly across formats</span>
-</div>
+<div style="display:flex; gap:40px; margin-top:38px; line-height:1.8;">
+  <div style="flex:1;">
+    <h4>Part 1</h4>
+    <ul>
+      <li class="fragment">build a blueprint</li>
+      <li class="fragment">define world + actors + tension</li>
+    </ul>
+  </div>
+  <div style="flex:1;" class="fragment">
+    <h4>Part 2</h4>
+    <ul>
+      <li>remediate into visuals</li>
+      <li>communicate across formats</li>
+    </ul>
+  </div>
 </div>
 
 ---
 
-## Final takeaway
-# AIGC is most useful when it helps you
+#### Final message
 
-<div style="font-size:0.95em; line-height:1.75; margin-top:24px;">
-<span class="fragment">build a blueprint</span><br>
-<span class="fragment">iterate with judgment</span><br>
-<span class="fragment">remediate across media</span><br>
-<span class="fragment">communicate ideas clearly</span>
+#### Do not start from tools
+#### Start from narrative intention
+
+---
+
+##### References
+<div style="font-size:0.5em; line-height:1; margin-top:22px; text-align:left;">
+Abbott, H. P. (2008). <i>The Cambridge introduction to narrative</i> (2nd ed.). Cambridge University Press.<br><br>
+Bolter, J. D., & Grusin, R. (1999). <i>Remediation: Understanding new media</i>. MIT Press.<br><br>
+Chatman, S. (1978). <i>Story and discourse: Narrative structure in fiction and film</i>. Cornell University Press.<br><br>
+Jenkins, H. (2006). <i>Convergence culture: Where old and new media collide</i>. New York University Press.<br><br>
+Ma, Y., Zhu, X., Chen, C.-X., & Zhou, A.-L. (2025). Towards an AI-assisted speculative narrative design workflow. In <i>Proceedings of the 18th International Symposium on Visual Information Communication and Interaction</i> (VINCI ’25). ACM. https://doi.org/10.1145/3769534.3769569<br><br>
+Manovich, L. (2001). <i>The language of new media</i>. MIT Press.<br><br>
+McCormack, J., Gifford, T., Hutchings, P., Llano, M. T., Yee-King, M., & d’Inverno, M. (2019). In a silent way: Communication between AI and improvising musicians beyond sound. <i>AI & Society, 34</i>(4), 1003–1013.<br><br>
+Roemmele, M., & Gordon, A. S. (2018). Automated assistance for creative writing with an rnn language model. In <i>Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion</i> (pp. 1–2). ACM. https://doi.org/10.1145/3180308.3180329<br><br>
+Ryan, M.-L. (2005). On the theoretical foundations of transmedial narratology. In J.-N. Thon & M.-L. Ryan (Eds.), <i>Narrative across media: The languages of storytelling</i> (pp. 1–23). University of Nebraska Press.<br><br>
+Zhu, X., Ma, Y., Chen, C.-X., & Zhou, A.-L. (2025). From concept to video: An end-to-end AI-assisted approach for storytelling. In <i>Proceedings of ARTECH 2025</i>.
 </div>
+
+---
