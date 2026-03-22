@@ -21,7 +21,7 @@
 
 ----
 
-## Concepts Need Narrative
+### Concepts Need Narrative
 
 <ul style="margin-top:38px; line-height:1.8;">
   <li class="fragment">concept scenarios</li>
@@ -36,7 +36,7 @@
 
 ----
 
-## Design is also communication
+### Design is also communication
 
 ----
 
@@ -74,7 +74,6 @@
 
 ### 1.4 The essence of narrative
 
-----
 
 <div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.05em;">
 <span class="fragment">state a situation</span><br>
@@ -84,7 +83,7 @@
 <span class="fragment">claim a changed situation</span>
 </div>
 
-<br><br>
+<br>
 
 #### *Abbott, 2008; Chatman, 1978*<!-- .element: class="fragment" --> 
 
@@ -97,12 +96,9 @@
 
 ## More than a story in textural / verbal formats
 
-----
+---
 
 ### 2.1 What counts as narrative
-
-----
-
 
 <div style="text-align:center; margin-top:40px; line-height:1.8; font-size:1.05em;">
 <span class="fragment">world</span>
@@ -140,7 +136,7 @@
 ## What is told
 ## How it is told
 
----
+----
 
 ### Blueprint vs Remediation
 
@@ -158,7 +154,7 @@
 
 ### 2.4 In design practice
 
----
+----
 
 ## Visible vs Underlying
 
@@ -308,14 +304,13 @@
 
 #### *Zhu et al., 2025; Ma et al., 2025*<!-- .element: class="fragment" -->
 
----
+----
 
 ## Form vs logic
 
 ----
 
-## Good communication needs both
-
+### Good communication needs both
 
 <div style="display:flex; gap:40px; margin-top:38px; line-height:1.8;">
   <div style="flex:1;">
@@ -357,7 +352,6 @@
 #### *Zhu et al., 2025*<!-- .element: class="fragment" -->
 
 ---
-
 
 ## 5 Human–AI loop
 
